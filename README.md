@@ -5,6 +5,7 @@ To start the project, run the following command:
 
 ```sh
 php -S localhost:8000
+```
 
 ## Access the Pages  
 
